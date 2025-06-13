@@ -1,3 +1,3 @@
 # apnacollege
-this is my fisrt repository 
+this is my fisrt repository. 
 auther-nafis ansari
